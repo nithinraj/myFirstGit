@@ -1,0 +1,24 @@
+the Git commands:
+
+git init
+
+git add .
+
+git commit
+
+git push <remoteURl> <branchName>
+
+git pull <repository>
+
+git clone <repository>
+
+git merge <branch>
+
+git status
+
+git diff
+
+git diff --cached
+
+git show
+
